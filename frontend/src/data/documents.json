@@ -1,0 +1,74 @@
+[
+  {
+    "id": "aadhaar",
+    "name": "Aadhaar Card",
+    "aliases": ["aadhaar", "aadhaar card", "aadhar card"],
+    "guidance": "You can download your e-Aadhaar from the official UIDAI portal or visit an Aadhaar Enrollment Center.",
+    "official_source": "uidai.gov.in",
+    "last_verified": "2026-08-11"
+  },
+  {
+    "id": "bank_account",
+    "name": "Bank Passbook",
+    "aliases": ["bank passbook", "bank account", "bank account details", "bank passbook front page"],
+    "guidance": "Open a savings account at any nationalized or scheduled bank. Ensure it is seeded with your Aadhaar.",
+    "official_source": null,
+    "last_verified": "2026-08-11"
+  },
+  {
+    "id": "land_record",
+    "name": "Land Record / 7/12 Extract",
+    "aliases": ["land ownership / 7/12 extract", "7/12 extract", "satbara", "land ownership record", "land record", "8A extract", "land documents"],
+    "guidance": "Obtain a verified copy of your land records (like 7/12 or 8A extract) from your local Tehsil office or state land records portal.",
+    "official_source": null,
+    "last_verified": "2026-08-11"
+  },
+  {
+    "id": "income_certificate",
+    "name": "Income Certificate",
+    "aliases": ["income certificate"],
+    "guidance": "Apply for an income certificate at your local Tehsildar office, CSC (Common Service Center), or state e-District portal.",
+    "official_source": null,
+    "last_verified": "2026-08-11"
+  },
+  {
+    "id": "caste_certificate",
+    "name": "Caste Certificate",
+    "aliases": ["caste certificate", "sc/st certificate"],
+    "guidance": "Apply at the local Tehsildar or Sub-Divisional Magistrate office using your state's e-District portal.",
+    "official_source": null,
+    "last_verified": "2026-08-11"
+  },
+  {
+    "id": "passport_photo",
+    "name": "Passport Photograph",
+    "aliases": ["passport photograph", "passport size photograph", "passport size photo", "recent passport size photograph"],
+    "guidance": "Any recent passport-sized color photograph.",
+    "official_source": null,
+    "last_verified": "2026-08-11"
+  },
+  {
+    "id": "farmer_registration",
+    "name": "Farmer Registration Certificate",
+    "aliases": ["farmer registration certificate", "farmer ID", "registration on state procurement portal", "crop sowing certificate/registration on state procurement portal"],
+    "guidance": "Register on your state's Department of Agriculture portal or procurement portal.",
+    "official_source": null,
+    "last_verified": "2026-08-11"
+  },
+  {
+    "id": "ration_card",
+    "name": "Ration Card",
+    "aliases": ["ration card"],
+    "guidance": "Apply through the Food and Civil Supplies Department of your state.",
+    "official_source": null,
+    "last_verified": "2026-08-11"
+  },
+  {
+    "id": "address_proof",
+    "name": "Address Proof",
+    "aliases": ["address proof", "domicile certificate", "residential proof"],
+    "guidance": "Can be Aadhaar, Voter ID, Ration Card, or utility bills.",
+    "official_source": null,
+    "last_verified": "2026-08-11"
+  }
+]
