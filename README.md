@@ -4,6 +4,10 @@ A farmer-focused web application that ranks government agricultural schemes by r
 
 **This is a decision-support tool. It does not determine official government eligibility.**
 
+## Live Demo
+
+[https://krishiai-jwwrpvep.manus.space](https://krishiai-jwwrpvep.manus.space)
+
 ## Status
 
 Step 3 — Implementation, in progress. See `docs/DEVELOPMENT_LOG.md` for what's done and what's next.
